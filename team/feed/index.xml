@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Team Members &#8211; Pillpresso</title>
+	<atom:link href="/team/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Better medication management for better health</description>
+	<lastBuildDate>Wed, 26 Jun 2019 07:24:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/06/cropped-drug-32x32.png</url>
+	<title>Team Members &#8211; Pillpresso</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Emily Low</title>
+		<link>/team/emily-low/</link>
+				<pubDate>Thu, 02 Feb 2017 21:46:27 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Low]]></dc:creator>
+		
+		<guid isPermaLink="false">http://tommustester.wpengine.com/?post_type=team&#038;p=643</guid>
+				<description><![CDATA[<p>Emily is the co-founder and CEO of Pillpresso. She has a proven track record working in hyper-growth startups, in the prestigious Singapore...</p>
+<p>The post <a rel="nofollow" href="/team/emily-low/">Emily Low</a> appeared first on <a rel="nofollow" href="/">Pillpresso</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Emily is the co-founder and CEO of Pillpresso. She has a proven track record working in hyper-growth startups, in the prestigious Singapore government and in the largest cosmetic company globally.</p>
+<p>In <strong>Lazada</strong> (Southeast Asia&#8217;s largest e-commerce platform; acquired by Alibaba by US$4 billion), Emily was the manager for the Home Appliances category. She spearheaded the growth of the 2nd largest category in Singapore.</p>
+<p>In the <strong>Singapore Economic Development Board</strong>, Emily’s mandate was to create jobs and enhance Singapore’s role as a global business hub. This involved engaging global CEOs and senior management from F500 companies (e.g. Nestlé, The Coca-Cola Company) to attract investments into Singapore.</p>
+<p>At <strong>L’Oreal&#8217;s</strong> <strong>Luxury Products Division</strong>, Emily was the only analyst recommended for a stint in the French headquarters.</p>
+<p>In parallel, she was a project leader with <strong>Conjunct Consulting,</strong> Southeast Asia&#8217;s first social change consultancy. There, she led her team to devise a training strategy and roadmap for Bizlink, Singapore’s 2nd-largest employer of people with disabilities.</p>
+<p>In her free time, Emily volunteers with <strong>Lions Befrienders</strong> to provide support to the low-income, socially isolated elderly. She enjoys wide-ranging conversations and learning about varied topics, especially those pertaining to healthcare, politics and bridging the income gap in developed countries.</p>
+<p>A thinker and doer, she has been regarded by her peers and superiors as one who does not shy away from challenging the status quo.</p>
+<p>She possesses a Bachelors Degree in Business Administration with a minor in Economics (Honours) from the National University of Singapore.</p>
+<p>The post <a rel="nofollow" href="/team/emily-low/">Emily Low</a> appeared first on <a rel="nofollow" href="/">Pillpresso</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Jason Feng</title>
+		<link>/team/jason-feng/</link>
+				<pubDate>Thu, 02 Feb 2017 21:46:05 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Low]]></dc:creator>
+		
+		<guid isPermaLink="false">http://tommustester.wpengine.com/?post_type=team&#038;p=642</guid>
+				<description><![CDATA[<p>Jason is the CTO of Pillpresso &#8212; our in-house expert in engineering design and prototyping. If he&#8217;s not rock-climbing, mountain climbing or...</p>
+<p>The post <a rel="nofollow" href="/team/jason-feng/">Jason Feng</a> appeared first on <a rel="nofollow" href="/">Pillpresso</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Jason is the CTO of Pillpresso &#8212; our in-house expert in engineering design and prototyping.</p>
+<p>If he&#8217;s not rock-climbing, mountain climbing or coffee-drinking, you would find him working on the Pillpresso medication device to ensure it meets our users&#8217; needs.</p>
+<p>He holds a Master&#8217;s Degree in Mechanical Engineering from the National University of Singapore. He also has a patent and 2 published scientific papers under his name.</p>
+<p>The post <a rel="nofollow" href="/team/jason-feng/">Jason Feng</a> appeared first on <a rel="nofollow" href="/">Pillpresso</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

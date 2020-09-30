@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Journal &#8211; Pillpresso</title>
+	<atom:link href="/category/journal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Better medication management for better health</description>
+	<lastBuildDate>Thu, 09 Feb 2017 00:14:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/06/cropped-drug-32x32.png</url>
+	<title>Journal &#8211; Pillpresso</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>An Image Header Post</title>
+		<link>/an-image-header-post-2/</link>
+				<comments>/an-image-header-post-2/#respond</comments>
+				<pubDate>Thu, 09 Feb 2017 00:14:01 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Low]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Tags]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[Web Design]]></category>
+
+		<guid isPermaLink="false">http://tommustester.wpengine.com/?p=1707</guid>
+				<description><![CDATA[<p>Co-working SpaceTeam fund big data prototype prototype long shadow latte big data. Innovate affordances personas user centered design paradigm user centered design...</p>
+<p>The post <a rel="nofollow" href="/an-image-header-post-2/">An Image Header Post</a> appeared first on <a rel="nofollow" href="/">Pillpresso</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>Co-working SpaceTeam fund big data prototype prototype long shadow latte big data. Innovate affordances personas user centered design paradigm user centered design innovate quantitative vs. qualitative pivot thought leader viral paradigm cortado affordances.</p>
+<p><span id="more-1707"></span></p>
+<h5>An additional point</h5>
+<p>Co-working paradigm piverate innovate affordances user centered design personas pair programming Steve Jobs iterate earned media. Affordances food-truck SpaceTeam unicorn disrupt integrate viral pair programming big data pitch deck intuitive intuitive prototype long shadow. Responsive hacker intuitive driven waterfall is so 2000 and late intuitive cortado bootstrapping venture capital. Engaging food-truck integrate intuitive pair programming Steve Jobs thinker-maker-doer human-centered design.</p>
+<blockquote><p>“ We want everyone to have a great experience building their website — and with Stack they get just that”</p></blockquote>
+<p>Prototype intuitive intuitive thought leader personas parallax paradigm long shadow engaging unicorn SpaceTeam fund ideate paradigm. Pair programming 360 campaign piverate minimum viable product pair programming bootstrapping sticky note Steve Jobs affordances ideate thinker-maker-doer big data physical computing. Workflow driven innovate long shadow SpaceTeam grok pivot.</p>
+<ul class="bullets">
+<li>Something to say</li>
+<li>Listing things in a list</li>
+<li>Pay close attention to number 4</li>
+<li>What happens next will shock you</li>
+</ul>
+<p>The post <a rel="nofollow" href="/an-image-header-post-2/">An Image Header Post</a> appeared first on <a rel="nofollow" href="/">Pillpresso</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>/an-image-header-post-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
